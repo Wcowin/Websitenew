@@ -2,7 +2,8 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ArchivePostList from "../layouts/ArchivePostList.astro";
 const allPosts = await Astro.glob("./posts/*.md");
-const tags = ["新闻稿", "虚幻引擎", "源码研究"];
+const tags = ["Apple","技术分享","学术研究"];
+// const tags = [...new Set(allPosts.map((post) => post.frontmatter.tags).flat())];
 const posts = [];
 
 tags.forEach((tag) => {
