@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: 'Parallels® Desktop 18 for Mac'
-pubDate: 2023-04-28
+pubDate: 2023-05-2
 description: '一款运行快速、操作简单、功能强大的应用程序，无需重启即可在您的 Intel 或 Apple M 系列 Mac 上运行 Windows。包含 40 多种一键式工具，可简化 Mac 和 Windows 上的日常任务'
 author: 'Wcowin'
 cover:
