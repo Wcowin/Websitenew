@@ -1,8 +1,8 @@
 export const SITE_TITLE = `Wcowin's Blog`;
 export const SITE_DESCRIPTION = 'Just for fun';
 export const SITE_EMAIL = 'wangkewen821@gmail.com'
-export const SITE_NAME = 'websitenew-nine.vercel.app';
-export const SITE_URL = "https://websitenew-nine.vercel.app/";
+export const SITE_NAME = 'wcowinastro.netlify.app';
+export const SITE_URL = "https://wcowinastro.netlify.app/";
 export const SITE_LANG = "zh-CN";
 
 // Author, used only when author is not specified on the page, 

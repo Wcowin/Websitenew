@@ -127,7 +127,7 @@ button:disabled {
 html {
   font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   font-size: 106.25%;
-  quotes: "“" "”"
+  quotes: """ """
 }
 
 body {
@@ -7390,3 +7390,7 @@ blockquote {
 blockquote p {
   display: inline;
 }
+
+
+/* 紫甲 */
+
